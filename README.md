@@ -3,13 +3,25 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 ## Contenido 
 * [Información personal](#información-personal) 
 * [Proyectos](#proyectos) 
-* [Intereses](#intereses) 
+* [Intereses](#tecnologías) 
 ## Información personal 
-* Nombre: Ariel Alejandro Ortiz Baque  
+* Nombre: Ariel Ortiz  
 * Ocupación: Estudiante  
 * Lugar de residencia: Guayaquil
 * Sitio web: [Tu sitio web] 
 ## Proyectos 
-* [Lista de tus proyectos] 
-## Intereses 
+### 1.
+* **Descripción:**
+* **Tecnologías utilizadas:**
+* **Enlace al repositorio:**
+### 2.
+* **Descripción:**
+* **Tecnologías utilizadas:**
+* **Enlace al repositorio:**
+### 3.
+* **Descripción:**
+* **Tecnologías utilizadas:**
+* **Enlace al repositorio:**
+
+## Tecnologías 
 * [Lista de tus intereses]
