@@ -14,10 +14,12 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * **Descripción:** Diseño y desarrollo de una página de aterrizaje (landing page) atractiva e interactiva, enfocada en la presentación estructurada de un producto o servicio y optimizada para la experiencia del usuario.
 * **Tecnologías utilizadas:** HTML5, CSS3, Tailwind CSS, JavaScript, Git.
 * **Enlace al repositorio:** [Ver proyecto en GitHub](https://github.com/aaortizdev/landing.git)
+
 ### 2. Currículum Web Personal
 * **Descripción:** Creación de un sitio web interactivo estructurado como una hoja de vida digital, diseñado para mostrar de forma limpia y profesional las habilidades, trayectoria y perfil de un desarrollador. 
 * **Tecnologías utilizadas:** HTML5, CSS3, Git.
 * **Enlace al repositorio:** [Ver proyecto en GitHub](https://github.com/aaortizdev/curriculum.git)
+
 ### 3. Script de Base de Datos para Gimnasio
 * **Descripción:** Diseño del modelo relacional y desarrollo de scripts SQL para la creación, estructuración y gestión automatizada de una base de datos para el control de usuarios, membresías y planes de un gimnasio.
 * **Tecnologías utilizadas:** SQL, MySQL Workbench 8.0 CE, Git.
