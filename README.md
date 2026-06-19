@@ -26,6 +26,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 ## Tecnologías 
 Durante el desarrollo de estos proyectos, he aplicado las siguientes herramientas:
 * **HTML5 y CSS3:** Utilizadas como la base estructural y de estilos para crear la *Landing Page* y el *Currículum Web*.
+* **JavaScript:** Implementado en la *Landing Page* para programar la lógica del lado del cliente, añadiendo interactividad y dinamismo a la experiencia del usuario.
 * **Tailwind CSS:** Empleado en el proyecto de la *Landing Page* para agilizar el diseño de la interfaz visual mediante clases utilitarias, logrando un diseño moderno de forma eficiente.
 * **SQL y MySQL Workbench:** Aplicados en el proyecto del gimnasio para diseñar el modelo relacional, estructurar tablas y garantizar el orden de los datos.
 * **Git:** Herramienta fundamental utilizada en los tres proyectos para llevar el control de versiones del código y mantener un historial organizado de los cambios realizados.
